@@ -1,0 +1,21 @@
+{
+  "name": "mom-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mom-bot"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "better-sqlite3": "^7.6.2",
+    "discord.js": "^14.3.0",
+    "quick.db": "^9.0.6"
+  }
+}
